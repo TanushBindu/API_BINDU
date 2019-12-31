@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7524" started-at="2019-12-31T10:53:42Z" finished-at="2019-12-31T10:53:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7524" started-at="2019-12-31T10:53:42Z" finished-at="2019-12-31T10:53:50Z">
+      <class name="Test_case.List_Userr">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test_case.List_Userr@42dafa95]" name="setUp" is-config="true" duration-ms="127" started-at="2019-12-31T16:23:42Z" finished-at="2019-12-31T16:23:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test_case.List_Userr@42dafa95]" name="setup" is-config="true" duration-ms="37" started-at="2019-12-31T16:23:42Z" finished-at="2019-12-31T16:23:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="get_list_user()[pri:0, instance:Test_case.List_Userr@42dafa95]" name="get_list_user" duration-ms="7470" started-at="2019-12-31T16:23:43Z" finished-at="2019-12-31T16:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_list_user -->
+      </class> <!-- Test_case.List_Userr -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
